@@ -1,0 +1,23 @@
+/* topic : box model  */
+
+.container{
+  background-color: red;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-bottom: 40px;
+  border: 12px double black;
+  /* border-left: 13px double black;
+  border-top-left-radius: 60px; */
+  /* border-radius: 30px; */
+}
+.wrapper{
+  background-color: lightblue;
+  padding: 40px;
+  /* margin-top: 20px;
+  margin-left: 40px; */
+  margin: 30px;
+  border-radius: 50px;
+}
+.wrapper button{
+  padding: 12px;
+}
