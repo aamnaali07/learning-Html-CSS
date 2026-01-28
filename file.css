@@ -3,7 +3,7 @@
   justify-content: space-around; 
 }
 .hero{
-  display: flex;
+  display: flex; 
   justify-content: space-evenly;  /* rows */
   background-color: beige;
   align-items: center;  /* coulmn */
